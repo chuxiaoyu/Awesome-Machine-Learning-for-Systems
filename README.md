@@ -8,6 +8,7 @@ This collection is focused on **Machine Learning for Systems**, which is applyin
   - [Paper](#paper)
     - [Workflow Management](#workflow-management)
     - [Resource Management and Scheduling](#resource-management-and-scheduling)
+  - [Conference](#conference)
   - [Course](#course)
   - [Update Log](#update-log)
 
@@ -38,6 +39,16 @@ This collection is focused on **Machine Learning for Systems**, which is applyin
 |2015|Reinforcement learning for thermal-aware many-core task allocation|University of Massachusetts, Amherst|Great Lakes Symposium on VLSI|[[PDF](https://dl.acm.org/doi/10.1145/2742060.2742078)]|
 |2009|A reinforcement learning framework for utility-based scheduling in resource-constrained systems|Sun Microsystems Laboratories|Future Generation Computer Systems (FGCS)|[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167739X08000162)]|
 
+## Conference
+[[ACM SIGMETRICS'23](https://www.sigmetrics.org/sigmetrics2023/call_for_papers.html)] learning track->the application of tools from machine learning and AI, broadly defined, to the design, control, and optimization of computing, networked, social, or cyber-physical systems.
+
+[[ICDCS'23](https://icdcs2023.icdcs.org/cfp/)] AI for Distributed Systems and Distributed Systems for AI
+
+[[CCGRID'23](http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023//index.html)] Track 3: ML for Systems, and Systems for ML->Use of Machine Learning and Artificial Intelligence applications to enhance the performance of cluster, cloud and Internet-computing systems. ML/AI techniques for workload prediction, application scheduling, resource placement, resiliency, etc. in cluster, cloud and Internet-computing systems
+
+[[DSN'23](https://dsn2023.dei.uc.pt/calls_cfp-research.html)] AI/Machine Learning for resilient systems (e.g., robust, resilient, secure, and explainable AI/Machine Learning techniques; applications of AI/ML techniques for dependability and security, robustness issues in ML/AI systems)
+
+
 ## Course
 - UMN CSci 8980: Machine Learning in Computer Systems [[Link](https://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)]
 - UChicago 34702 Topics in Networks: Machine Learning for Networking and Systems [[Link](https://people.cs.uchicago.edu/~junchenj/34702-fall19/index.html)]
@@ -48,6 +59,7 @@ This collection is focused on **Machine Learning for Systems**, which is applyin
 - Stanford MLSys Seminar Series [[Link](https://mlsys.stanford.edu/)]
 
 ## Update Log
-- 2022-10-03: add paper->resource scheduling
-- 2022-09-25: add surveys and courses
-- 2022-09-23: repo created
+- *2022-10-16: add conference*
+- *2022-10-03: add paper->resource scheduling*
+- *2022-09-25: add surveys and courses*
+- *2022-09-23: repo created*
